@@ -4,7 +4,7 @@
 
 ---
 
-Let's take, for example, a Culturally Valuable Magazine. Currently, their editors use A Boring CMS to manage content and they persist their data on a cloud-based network. Increasingly, whispers have been spreading amongst literary circles about government activity around censorship. One of the younger guys on staff brings something called ArWeave to the attention of the CTO, who’s immediately excited by the notion of data permanence.  
+Let's take, for example, a Culturally Important Magazine. Currently, their editors use A Boring CMS to manage content and they persist their data on a cloud-based network. Increasingly, whispers have been spreading amongst literary circles about government activity around censorship. One of the younger guys on staff brings something called ArWeave to the attention of the CTO, who’s immediately excited by the notion of data permanence.  
 
 She looks into it a bit. ArWeave is without question exciting but the ecosystem is still small. She notices the apps are promising but incontrovertibly less mature than even the most forgettable of cloud-based storage solutions. She only faintly knows how a blockchain works and fears the risks inherent to embracing a new technology. She can’t help but feel wary of the cognitive barriers w/ re: to the mechanics/implementation. She knows right away they’re not ready to bring their whole operation over to the permaweb and wishes there were a simple, configurable WordPress plugin instead. At the point of content-submission, she would love it if editors could tick a box to upload sensitive works to the permaweb for safe keeping.
 
