@@ -35,6 +35,10 @@ const tstamp = new Date()
 
 ---
 
+![flowchart](https://github.com/duncanlettuce/ArStore/blob/concept/image.png)
+
+---
+
 ArWeave as well as blockchain-based tech in general are still very new to me, so, questions:
 
 1. Has this concept already been spoken for by someone else?
