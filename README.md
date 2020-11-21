@@ -14,7 +14,7 @@ The approach I propose here is to build:
 
 1. A UI to manage things like sign-ups and account settings. It would allow users to create their organization, generate schemas to describe the various shapes of their data (more of a stretch goal — the schemas could be used to validate data before committing it), as well as to view the current state of their data. The UI would be comparable to a headless CMS.
 
-2. An API to handle the legwork. It would offer a dumbed-down interface vs. the current Arweave HTTP API in the hopes of encapsulating away as much as possible of the complexity necessary to interface with the chain, leveraging the account settings originally configured via the UI to prime the dev-facing convenience functions. 
+2. An API to handle the legwork. It would offer a dumbed-down interface vs. the current Arweave HTTP API in the hopes of encapsulating away as much as possible of the complexity necessary to interface with the chain, leveraging the account settings originally configured via the UI to prime the dev-facing convenience functions. It could be further abstracted into plugins, etc.
 
 Quickly, roughly:
 
