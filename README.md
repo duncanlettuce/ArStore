@@ -29,7 +29,7 @@ const tstamp = new Date()
   const { store, get, save } = await ArStore.login(process.env.WALLET_ADDRESS)
   console.log(store.organization) // Culturally Important Magazine
   const { id } = await save('fiction').data({ author, content, tstamp })
-  const quote = await get('fiction').byId(id)
+  const piece = await get('fiction').byId(id)
 })()
 ```
 
