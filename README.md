@@ -46,5 +46,3 @@ ArWeave as well as blockchain-based tech in general are still very new to me, so
 
 I think it would be particularly neat and important to bring this ease of use to those who would otherwise take a pass on ArWeave. There are obviously some UX challenges around how to manage payment and all of that. But I  believe the concept to be sound enough to make it worth those hurdles.  
 
-I’d be happy to hear your thoughts, if you have some :—)
-
