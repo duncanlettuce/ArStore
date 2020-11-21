@@ -37,7 +37,7 @@ const tstamp = new Date()
 
 ArWeave as well as blockchain-based tech in general are still new to me, so, questions:
 
-1. Has this concept has already been started by anyone else?
+1. Has this concept already been spoken for by someone else?
 2. In terms of building a library, as sketched above, is it as simple as making a wrapper around the official ArWeave SDKs?
 
 I think it would be particularly neat and important to bring this ease of use to those who would otherwise take a pass on ArWeave. There are obviously some UX challenges around how to manage payment and all of that. But I  believe the concept to be sound enough to make it worth those hurdles.  
