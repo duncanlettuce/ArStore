@@ -35,7 +35,7 @@ const tstamp = new Date()
 
 ---
 
-![flowchart](https://github.com/duncanlettuce/ArStore/blob/concept/image.png)
+![flowchart](https://github.com/duncanlettuce/ArStore/blob/concept/flowchart.png)
 
 ---
 
