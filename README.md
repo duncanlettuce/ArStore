@@ -1,6 +1,6 @@
 # ArStore
 
-#### A framework allowing interested parties to adopt ArWeave incrementally for object storage. 
+#### A framework allowing organizations to adopt ArWeave incrementally for object storage. 
 
 ---
 
