@@ -18,20 +18,7 @@ The approach I propose here is to build:
 
 Quickly, roughly:
 
-```js
-import ArStore from ‘ar-store’
-
-const author = 'Jenny Offill'
-const content = 'My question for Will is: Does this feel like a country at peace or at war? I’m joking, sort of, but he answers seriously. He says it feels the way it does just before it starts. It’s a weird thing, but you learn to pick up on it. Even while everybody’s convincing themselves it’s going to be okay, it’s there in the air somehow. The whole thing is more physical than mental, he tells me. Like hackles? The way a dog’s hackles go up? Yes, he says.'
-const tstamp = new Date()
-
-;(async () => {
-  const { store, get, save } = await ArStore.login(process.env.WALLET_ADDRESS)
-  console.log(store.organization) // Culturally Important Magazine
-  const { id } = await save('fiction').data({ author, content, tstamp })
-  const piece = await get('fiction').byId(id)
-})()
-```
+![library](https://github.com/duncanlettuce/ArStore/blob/concept/library.png)
 
 ---
 
