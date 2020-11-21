@@ -29,7 +29,7 @@ Quickly, roughly:
 ArWeave as well as blockchain-based tech in general are still very new to me, so, questions:
 
 1. This concept is pretty basic/foundational; has it already been spoken for by someone else?
-2. Ordinarily, I would serve my own API. ArWeave, however, doesn't support hosting your own server. ArWeave's HTTP API makes that tenable, though, right? Ie. to create a library that would serve as the "API", as sketched above, is it as simple as making wrappers around the official ArWeave SDKs?
+2. Ordinarily, I would serve my own API. ArWeave, however, doesn't support hosting your own server. ArWeave's HTTP API + SDKs make this tenable, though, right? Ie. to create a library, as sketched above, that would serve to access the HTTP API, is it as simple as making wrappers around the official ArWeave SDKs?
 
 I think it would be particularly neat and important to bring this ease of use to those who would otherwise take a pass on ArWeave. There are obviously some UX challenges around how to manage payment and all of that. But I  believe the concept to be sound enough to make it worth those hurdles.  
 
