@@ -4,7 +4,7 @@
 
 ---
 
-Let's take, for example, a Culturally Important Magazine. Currently, they have a pretty standard setup. Their editors use A Boring CMS to manage content and they persist their data on a cloud-based network. Increasingly, however, there have been murmurs amonst literary circles about government activity around censorship. One of the younger guys on staff brings something called ArWeave to the attention of the CTO, who expresses her excitement over the notion of decentralization and data permanence.  
+Let's take, for example, a Culturally Important Magazine. Currently, they have a pretty standard setup. Their editors use A Boring CMS to manage content and they persist their data on a cloud-based network. Increasingly, however, there have been murmurs across literary circles about government activity around censorship. One of the younger guys on staff brings something called ArWeave to the attention of the CTO, who expresses her excitement over the notion of decentralization and data permanence.  
 
 She does some research. ArWeave is without question exciting but the ecosystem is still small. She notices the apps are promising but inarguably less mature than what she's used to. She also only faintly knows how a blockchain works and fears the risks inherent to embracing a new technology. She can’t help but feel wary of the cognitive barriers with respect to implementation. Right away, she knows they’re not ready to bring their whole operation over to the permaweb and wishes there were a simple, configurable Boring CMS plugin instead. At the point of content-submission, she would love it if editors were able to tick a box and upload sensitive works to ArWeave for safe-keeping.
 
